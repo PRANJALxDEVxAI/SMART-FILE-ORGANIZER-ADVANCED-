@@ -23,7 +23,7 @@ Built with only the Python standard library (`pathlib`, `shutil`, `json`, `argpa
 3. Run the commands below. Use `py` instead of `python` on Windows if `python` isn't found.
 
 ```bash
-git clone https://github.com/<your-username>/smart-file-organizer.git
+git clone https://github.com/pranjalxdevxai/smart-file-organizer.git
 cd smart-file-organizer
 ```
 
